@@ -35,12 +35,12 @@ if numvarargs > 1;
 end
 
 station = '46042';
-themonths{1} = 'Jan';
-themonths{2} = 'Feb';
-themonths{3} = 'Mar';
-themonths{4} = 'Apr';
-themonths{5} = 'May';
-themonths{6} = 'Jun';
+themonths{1} = '1';
+themonths{2} = '2';
+themonths{3} = '3';
+themonths{4} = '4';
+themonths{5} = '5';
+themonths{6} = '6';
 themonths{7} = 'Jul';
 themonths{8} = 'Aug';
 themonths{9} = 'Sep';
